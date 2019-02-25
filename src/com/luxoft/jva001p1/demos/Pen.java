@@ -3,7 +3,6 @@ package com.luxoft.jva001p1.demos;
 public class Pen {
     private String colour;
     private int id;
-    private 
 
     public Pen() {
         System.out.println("New pen has been created!");
