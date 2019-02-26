@@ -4,6 +4,13 @@ public class Letter {
     private String text;
     private Person sender;
     private Person receiver;
+    private boolean delivered;
+
+    public Letter(String text, Person sender, Person receiver) {
+        this.text = text;
+        this.sender = sender;
+        this.receiver = receiver;
+    }
 
     public String getText() {
         return text;
@@ -27,5 +34,13 @@ public class Letter {
 
     public void setReceiver(Person receiver) {
         this.receiver = receiver;
+    }
+
+    public boolean isDelivered() {
+        return delivered;
+    }
+
+    public void setDelivered(boolean delivered) {
+        this.delivered = delivered;
     }
 }

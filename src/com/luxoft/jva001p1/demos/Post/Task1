@@ -1,0 +1,12 @@
+Demo
+Person
+- name
+Letter
+- text
+-sender-receiver(Persons)
+Post
+- send letter (save on post)
+- take my letters
+- return undelivered letters
+- how many letters sent by a man
+- get copy all delivered letters
