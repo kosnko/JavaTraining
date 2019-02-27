@@ -1,0 +1,14 @@
+Cafe
+Drinks:
+- coffe
+- late
+- cappp
+-
+name, price
+calculateprice()
+addNewDrink()
+custumDrinks()  complete custom drinks -> calculate special price
+
+
+is-A - exteds
+has-A - includes - composition
