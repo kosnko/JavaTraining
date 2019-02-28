@@ -1,0 +1,26 @@
+Cafe
+Drinks (name, price):
+- coffe
+- late
+- cappp
+-
+calculatePrice()
+addNewDrink()
+customDrinks() -> complex custom drinks -> calculate special price
+
+
+Drinks:
+- Espresso 22 (1/3 espresso)
+- Tripplo 60 (1 cup of espresso)
+- Black coffee 40 (1 cup of coffee)
+- Americano 25 (1/3 espresso, 2/3 hot water)
+- Galao 30 (1/4 espresso, 3/4 steamed milk)
+- Latte 35 (2/3 coffee, 1/3 steamed milk)
+- Cappuchino 35 (1/3 espresso, 1/3 hot milk, 1/3 steamed milk foam)
+- Flat white 40 (1/3 espresso, 2/3 steamed milk)
+Ingredients (1 cup):
+- espresso 60
+- coffee 40
+- steamed milk (foam) 30
+- hot milk 15
+- hot water 5
