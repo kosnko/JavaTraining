@@ -1,11 +1,3 @@
-Storage  can be changed due to private - incapsulation.
-in constructor we can use super methods.
-creating from independant to ....  join parts of object.
-object is desribed by several classes.
-annotation hints
-..override toString
-
-
 Demo
 Person
 - name
