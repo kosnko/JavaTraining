@@ -1,5 +1,7 @@
 package com.luxoft.jva001p1.oop.bankapp.domain;
 
+import com.luxoft.jva001p1.oop.bankapp.Client;
+
 import java.util.Arrays;
 
 public class Bank {

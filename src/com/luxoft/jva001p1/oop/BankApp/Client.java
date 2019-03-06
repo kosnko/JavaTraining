@@ -1,4 +1,7 @@
-package com.luxoft.jva001p1.oop.bankapp.domain;
+package com.luxoft.jva001p1.oop.bankapp;
+
+//import com.luxoft.jva001p1.oop.bankapp.domain.Account;
+import com.luxoft.jva001p1.oop.bankapp.domain.Gender;
 
 import java.util.Arrays;
 

@@ -2,7 +2,19 @@ package com.luxoft.jva001p1.oop.bankapp;
 
 public abstract class AbstractAccount implements Account{
     private int id;
-    private double balance;
+    protected double balance;
+
+    public AbstractAccount() {
+    }
+
+    public AbstractAccount(int id, double balance) {
+        this.id = id;
+        this.balance = balance;
+    }
+
+    public void setBalance(double balance) {
+        this.balance = balance;
+    }
 
     public double getBalance() {
         return balance;
@@ -15,4 +27,8 @@ public abstract class AbstractAccount implements Account{
             balance -= x;
         }
     }
+
+
+
+
 }
