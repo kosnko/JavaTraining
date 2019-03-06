@@ -1,4 +1,4 @@
-package com.luxoft.jva001p1.oop.BankApp;
+package com.luxoft.jva001p1.oop.bankapp.domain;
 
 public enum Gender {
     MALE(true), FEMALE(false);

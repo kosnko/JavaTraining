@@ -1,4 +1,10 @@
-package com.luxoft.jva001p1.oop.BankApp;
+package com.luxoft.jva001p1.oop.bankapp;
+
+import com.luxoft.jva001p1.oop.bankapp.domain.Account;
+import com.luxoft.jva001p1.oop.bankapp.domain.Bank;
+import com.luxoft.jva001p1.oop.bankapp.domain.Client;
+import com.luxoft.jva001p1.oop.bankapp.domain.Gender;
+import com.luxoft.jva001p1.oop.bankapp.service.BankService;
 
 public class BankApplication {
 
@@ -13,9 +19,11 @@ public class BankApplication {
                 bank.getClients()[i].setGender(Gender.FEMALE);
             }
         }
-
-
         modifyBank(bank);
+        printBalance(bank);
+
+        Client client = new Client("client_NEW", Gender.MALE);
+        BankService.addClient(bank, client);
         printBalance(bank);
     }
 
