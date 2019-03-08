@@ -27,7 +27,7 @@ public abstract class AbstractAccount implements Account{
         }
         balance += x;
     }
-    public void withdraw(double x){
+    public void withdraw(double x) throws NotEnoughFundsException{
         if( x < 0){
             throw new IllegalArgumentException();
         }

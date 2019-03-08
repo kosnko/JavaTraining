@@ -2,12 +2,14 @@ package com.luxoft.jva001p1.oop.bankapp;
 
 //import com.luxoft.jva001p1.oop.bankapp.domain.Account;
 import com.luxoft.jva001p1.oop.bankapp.domain.Gender;
+import com.luxoft.jva001p1.oop.bankapp.exceptions.BankException;
 import com.luxoft.jva001p1.oop.bankapp.service.BankService;
 
 public class BankApplication {
 
     public static void main(String[] args) {
-        Bank bank = new Bank();
+        try {
+            Bank bank = new Bank();
 //        for (int i = 0; i < 7 ; i++) {
 //            bank.addClient(new Client("client_"+i));
 //            bank.getClients()[i].addAccount(new Account(i,i*200));
@@ -20,20 +22,22 @@ public class BankApplication {
 //        modifyBank(bank);
 //        printBalance(bank);
 
-        Client client = new Client("client_NEW", Gender.MALE);
-        BankService.addClient(bank, client);
-        //printBalance(bank);
+            Client client = new Client("client_NEW", Gender.MALE);
+            BankService.addClient(bank, client);
+            //printBalance(bank);
 
-        Account account = new ChekingAccount(1, 200, 100);
-        client.addAccount(account);
-        Account accountSaving = new SavingAccount();
-        client.addAccount(accountSaving);
-        ((SavingAccount) accountSaving).setBalance(10);
+            Account account = new ChekingAccount(1, 200, 100);
+            client.addAccount(account);
+            Account accountSaving = new SavingAccount();
+            client.addAccount(accountSaving);
+            ((SavingAccount) accountSaving).setBalance(10);
 
 //        printBalance(bank);
 //
 //        BankService.printMaximumAmountToWithdraw(bank);
+        }catch (BankException e){
 
+        }
     }
 
     public static void modifyBank(Bank bank){
