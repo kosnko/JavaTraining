@@ -27,14 +27,15 @@ public abstract class AbstractAccount implements Account{
         }
         balance += x;
     }
+    @Override
     public void withdraw(double x) throws NotEnoughFundsException{
         if( x < 0){
             throw new IllegalArgumentException();
         }
-        if (balance >= x){
+        if (maximumAmountToWithdraw() >= x){
             balance -= x;
         }else{
-            throw new NotEnoughFundsException();
+            throw new NotEnoughFundsException(this);
         }
     }
 

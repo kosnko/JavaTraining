@@ -3,6 +3,7 @@ package com.luxoft.jva001p1.oop.bankapp;
 //import com.luxoft.jva001p1.oop.bankapp.domain.Account;
 import com.luxoft.jva001p1.oop.bankapp.domain.Gender;
 import com.luxoft.jva001p1.oop.bankapp.exceptions.BankException;
+import com.luxoft.jva001p1.oop.bankapp.exceptions.*;
 import com.luxoft.jva001p1.oop.bankapp.service.BankService;
 
 public class BankApplication {
@@ -26,21 +27,31 @@ public class BankApplication {
             BankService.addClient(bank, client);
             //printBalance(bank);
 
-            Account account = new ChekingAccount(1, 200, 100);
-            client.addAccount(account);
+            Account accountCheking = new ChekingAccount(1, 200, 100);
+            client.addAccount(accountCheking);
             Account accountSaving = new SavingAccount();
             client.addAccount(accountSaving);
             ((SavingAccount) accountSaving).setBalance(10);
 
 //        printBalance(bank);
-//
 //        BankService.printMaximumAmountToWithdraw(bank);
-        }catch (BankException e){
+            //accountSaving.withdraw(20);
+            accountCheking.withdraw(301);
 
+        }catch (BankException e){
+            System.out.println(e.getClass().getSimpleName());
+            if(e instanceof NotEnoughFundsException){
+                System.out.println("Balance: "+((NotEnoughFundsException)e).getAccont().getBalance());
+                System.out.println("Maximum amount of money that can be given: "
+                        +((NotEnoughFundsException)e).getAccont().maximumAmountToWithdraw());
+                if(e instanceof OverdraftLimitExceededException){
+                    System.out.println("Overdraft: "+((OverdraftLimitExceededException)e).getOverdraft());
+                }
+            }
         }
     }
 
-    public static void modifyBank(Bank bank){
+    public static void modifyBank(Bank bank)throws NotEnoughFundsException {
         for (int i = 0; i < 4 ; i++) {
             bank.getClients()[i].getAccounts()[0].deposite(20);
         }
