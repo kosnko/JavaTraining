@@ -2,78 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5d5ef5-c99b-442d-ad96-503bda1f952f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ClientRegistrationListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/IllegalArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/NotEnoughFundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaTraining.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTraining.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/META-INF/jva-001-p1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/animals/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/animals/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part1/text/E10_StringComparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part1/text/E10_StringComparison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T0_TanksMoveForward.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T0_TanksMoveForward.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T1_TanksGetQuadrant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T1_TanksGetQuadrant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T2_TanksMoveForever.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T2_TanksMoveForever.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T3_TanksMove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T3_TanksMove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T4_TanksMoveRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T4_TanksMoveRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T5_TanksMoveToQuadrant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part2/xtasks/T5_TanksMoveToQuadrant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T1_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T1_Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T3_TanksFire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T3_TanksFire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T4_TanksShoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T4_TanksShoot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T5_TanksMove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T5_TanksMove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T6_CleanBattleField.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/basics/part3/xtasks/T6_CleanBattleField.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/demos/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/demos/Bear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/demos/nodes/Node_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/demos/nodes/Node_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/exceptions/manager/DefaultFileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/exceptions/manager/DefaultFileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/exceptions/person/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/exceptions/person/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/c0list/ListStructureDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/c0list/ListStructureDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g1list/D0_PrintProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g1list/D0_PrintProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g1list/D2_TypeErasure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g1list/D2_TypeErasure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g2nowildcard/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g2nowildcard/Basket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g3methodwc/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g3methodwc/Basket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g4classwc/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g4classwc/Basket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g5limits/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g5limits/Basket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g6methods/D1_GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/g6methods/D1_GenericMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/os/UsingBasket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/os/UsingBasket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/bankapp/domain/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/bankapp/domain/CheckingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/bankapp/main/BankApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/bankapp/main/BankApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/bankapp/service/BankService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/bankapp/service/BankService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/dog/Dog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/dog/Dog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/dog/Dog$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/dog/Dog$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/dog/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/generics/xtasks/dog/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i0private/StringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i0private/StringList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i1public/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i1public/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i1public/StringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i1public/StringList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i2static/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i2static/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i2static/StringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i2static/StringList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AbstractObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AbstractObject$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AbstractObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AbstractObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AnonymousClassDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AnonymousClassDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AnonymousClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/AnonymousClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/Printer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/Printer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/superman/Demo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/superman/Demo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/superman/Demo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/superman/Demo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/superman/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i3anonymus/superman/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i4local/LocalClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i4local/LocalClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/PetsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/SimpleAnonymousDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/SimpleAnonymousDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/SimpleAnonymousDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/SimpleAnonymousDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/SimpleAnonymousDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/i5animals/SimpleAnonymousDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/java8/AnonymousPrinter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/java8/AnonymousPrinter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/java8/AnonymousPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/java8/AnonymousPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/xtasks/bankapp/main/BankApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/xtasks/bankapp/main/BankApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/xtasks/bankapp/service/BankService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/inners/xtasks/bankapp/service/BankService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/mess/objects/Swatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/mess/objects/Swatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/AbstractAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/AbstractAccount.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank$1DebugListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank$1DebugListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank$EmailNotificationListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank$EmailNotificationListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank$PrintClientListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank$PrintClientListener.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Bank.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/BankApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/BankApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/Gender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/AbstractAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/AbstractAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/BankApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/ChekingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ChekingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/domain/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/domain/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/domain/Gender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/service/BankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/service/BankService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/ChekingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/ChekingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/service/BankService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/BankApp/service/BankService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/TV/RemoteControl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/TV/RemoteControl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/TV/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/TV/TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/enums/Suit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/enums/Suit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/inheritance/Cafe/Cafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/inheritance/Cafe/Cafe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/inheritance/Cafe/CustomDrink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/oop/inheritance/Cafe/CustomDrink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/postoffice/PostOffice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/postoffice/PostOffice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/television/TvDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jva-001-p1/com/luxoft/jva001p1/television/TvDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/AbstractAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/AbstractAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-288144989">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="1" value="33" />
-          <entry key="Shop" value="824" />
-          <entry key="Task" value="206" />
-          <entry key="Task1" value="253" />
-          <entry key="java" value="6660" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="6660" />
-          <entry key="PLAIN_TEXT" value="1316" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="1" value="1" />
-          <entry key="Shop" value="1" />
-          <entry key="Task" value="1" />
-          <entry key="Task1" value="3" />
-          <entry key="java" value="149" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="149" />
-          <entry key="PLAIN_TEXT" value="7" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="jva-001-p1" />
@@ -83,12 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ChekingAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="9" />
-              <folding>
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -96,35 +110,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/AbstractAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/IllegalArgumentException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            <state relative-caret-position="-365">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1237#1245#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/NotEnoughFundsException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="323">
+              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,15 +206,15 @@
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/BankApplication.java" />
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/TV/1" />
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Account.java" />
-        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java" />
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/service/BankService.java" />
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ClientRegistrationListener.java" />
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/domain/Bank.java" />
-        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java" />
-        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java" />
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ChekingAccount.java" />
-        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/AbstractAccount.java" />
         <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/NotEnoughFundsException.java" />
+        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java" />
+        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java" />
+        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/AbstractAccount.java" />
+        <option value="$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java" />
       </list>
     </option>
   </component>
@@ -218,7 +230,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="17" />
     <option name="y" value="39" />
     <option name="width" value="756" />
@@ -231,52 +243,69 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="luxoft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="luxoft" type="462c0819:PsiDirectoryNode" />
-              <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="luxoft" type="462c0819:PsiDirectoryNode" />
               <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="luxoft" type="462c0819:PsiDirectoryNode" />
+              <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="luxoft" type="462c0819:PsiDirectoryNode" />
+              <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="g1list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="luxoft" type="462c0819:PsiDirectoryNode" />
+              <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="g3methodwc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="luxoft" type="462c0819:PsiDirectoryNode" />
               <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="luxoft" type="462c0819:PsiDirectoryNode" />
               <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
@@ -284,8 +313,8 @@
               <item name="bankapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="luxoft" type="462c0819:PsiDirectoryNode" />
               <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
@@ -294,24 +323,14 @@
               <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="luxoft" type="462c0819:PsiDirectoryNode" />
               <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
               <item name="bankapp" type="462c0819:PsiDirectoryNode" />
               <item name="exceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jva-001-p1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jva-001-p1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="luxoft" type="462c0819:PsiDirectoryNode" />
-              <item name="jva001p1" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="bankapp" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,9 +341,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551959882506" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552391389577" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -455,9 +474,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6555024" visible="true" weight="0.23200513" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6555024" visible="true" weight="0.18766066" />
       <window_info id="Structure" order="1" sideWeight="0.34449762" side_tool="true" weight="0.33529413" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -467,7 +485,7 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3293011" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.28225806" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.37012112" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.43817204" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -475,7 +493,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009804" side_tool="true" weight="0.2764977" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3293011" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32839838" />
       <window_info anchor="right" id="Maven Projects" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -491,200 +509,8 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/p1animals/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/p1animals/Wolf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/postoffice/Mail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/postoffice/PostOffice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-349">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/postoffice/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/demos/nodes/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/demos/nodes/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/demos/Post/Task1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Android.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Warior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Laptop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/HouseWife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Desktop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Machine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Lorry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/p2animals/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/p2animals/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/p2animals/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/p2animals/Wolf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Task">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/Machines/Task" />
     <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/inheritance/p2animals/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -696,17 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,26 +546,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/Gender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="8" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/TV/1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/BankApp/Gender.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/TV/1" />
     <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/TV/RCButtons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -779,61 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/service/BankService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ClientRegistrationListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/exceptions/person/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -855,53 +597,263 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/IllegalArgumentException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/IllegalArgumentException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/ForPres.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ChekingAccount.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/Monitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/Axe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/os/UsingBasket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/os/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g9restrictions/StaticRestrictions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g9restrictions/SyntaxRestrictions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="60" column="46" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g8recursivewc/Axe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g8recursivewc/LCDMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g8recursivewc/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g8recursivewc/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g8recursivewc/TFTMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g6methods/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g6methods/D3_GenericMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g6methods/D2_GenericMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/domain/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/generics/g1list/D0_PrintProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/service/BankService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding>
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/IllegalArgumentException.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ClientRegistrationListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/SavingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding>
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="699" column="19" selection-start-line="699" selection-start-column="19" selection-end-line="699" selection-end-column="19" />
+          <folding>
+            <element signature="e#6336#6337#0" expanded="true" />
+            <element signature="e#6404#6405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/ClientExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/NotEnoughFundsException.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="161" column="6" lean-forward="true" selection-start-line="161" selection-start-column="6" selection-end-line="161" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/BankException.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/OverdraftLimitExceededException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/ChekingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/AbstractAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/exceptions/IllegalArgumentException.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/BankApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="323">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxoft/jva001p1/oop/bankapp/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1237#1245#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -922,7 +874,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Detection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -945,7 +897,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -9,7 +9,7 @@ public abstract class AbstractAccount implements Account{
     public AbstractAccount() {
     }
 
-    public AbstractAccount(int id, double balance) {
+    protected AbstractAccount(int id, double balance) {
         this.id = id;
         this.balance = balance;
     }
