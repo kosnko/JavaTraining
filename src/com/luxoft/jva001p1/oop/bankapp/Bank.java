@@ -33,9 +33,11 @@ public class Bank {
     public List<Client> getClients() {
 
         //return Arrays.copyOf(clients, clients.length);
-        List<Client> clientList = new ArrayList<Client>();
-        clientList.addAll(clients);
-        return clientList;
+
+//        List<Client> clientList = new ArrayList<Client>();
+//        clientList.addAll(clients);
+//        return clientList;
+        return new ArrayList<Client>(clients);
     }
 
     public void addClient(Client client) throws ClientExistsException{
